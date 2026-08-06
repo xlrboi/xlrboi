@@ -317,6 +317,8 @@ GitHub
 </p>
 
 ---
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/xlrboi/xlrboi/output/github-snake-dark.svg#gh-dark-mode-only" /> <img src="https://raw.githubusercontent.com/xlrboi/xlrboi/output/github-snake.svg#gh-light-mode-only" /> </p>
 
 ## 👨🏻‍💻 Status
 
